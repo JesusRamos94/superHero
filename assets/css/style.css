@@ -1,0 +1,14 @@
+
+
+@media (min-width: 768px) { 
+    .img-size{
+        height: 30rem;
+        width: 30rem !important;
+    }
+    
+}
+
+.hero-size{
+    width: 100% !important;
+}
+
